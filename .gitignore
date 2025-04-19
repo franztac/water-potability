@@ -1,0 +1,10 @@
+/model.plk
+/model.pkl
+/metrics.json
+
+.dvc/cache/
+.dvc/tmp/
+.dvc/.lock
+*venv/
+.dvc/
+
