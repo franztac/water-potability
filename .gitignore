@@ -1,4 +1,3 @@
-/model.plk
 /model.pkl
 /metrics.json
 
@@ -6,5 +5,5 @@
 .dvc/tmp/
 .dvc/.lock
 *venv/
-.dvc/
+
 
